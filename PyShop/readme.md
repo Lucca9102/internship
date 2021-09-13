@@ -170,7 +170,7 @@ pass
 
      效果如图：
 
-     ![Products](F:\University\coding\python\ShiXi\PyShop\pics\Products.png)
+     ![Products](pics/Products.png)
 
      同理可以按照以上步骤添加本例中另一个 Model: *Offer*
 
@@ -260,7 +260,7 @@ pass
 
     现在的效果：
 
-    ![site](F:\University\coding\python\ShiXi\PyShop\Pics\site_screenshot1.png)
+    ![site](pics/site_screenshot1.png)
 
     可以看到左边是贴边的，非常难看。
 
@@ -277,10 +277,11 @@ pass
 
     最终效果：
 
-    ![site_final](F:\University\coding\python\ShiXi\PyShop\Pics\site_screenshot2.png)
+    ![site_final](pics/site_screenshot2.png)
 
     还有：
 
-    ![site_final_small](F:\University\coding\python\ShiXi\PyShop\Pics\site_screenshot3.png)
+    ![site_final_small](pics/site_screenshot3.png)
 
     不算很难看嘛！可以接受！
+
